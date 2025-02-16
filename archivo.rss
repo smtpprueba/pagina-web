@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mi RSS</title>
+        <link>https://smtpprueba.github.io/pagina-web/</link>
+        <description>Ultimas publicaciones de mi blog</description>
+        <item>
+            <title>Cómo empezar con GitHub Pages</title>
+            <link>https://www.smashingmagazine.com/2020/09/github-pages-hosting-jekyll/</link>
+            <description>Aprende a usar GitHub Pages para alojar tu sitio web estático con Jekyll.</description>
+        </item>
+    </channel>
+</rss>
