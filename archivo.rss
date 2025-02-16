@@ -4,6 +4,11 @@
         <title>Mi RSS</title>
         <link>https://smtpprueba.github.io/pagina-web/</link>
         <description>Ultimas publicaciones de mi blog</description>
+        <image>
+            <url>the_cactus_gamer_by_killapro068-daxjqyf.png</url>
+            <title>mi feed RSS</title>
+            <link>https://smtpprueba.github.io/pagina-web/</link>
+        </image>
         <item>
             <title>Cómo empezar con GitHub Pages</title>
             <link>https://www.smashingmagazine.com/2020/09/github-pages-hosting-jekyll/</link>
