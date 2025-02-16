@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
         <title>Mi RSS</title>
@@ -12,7 +11,10 @@
         <item>
             <title>Cómo empezar con GitHub Pages</title>
             <link>https://www.smashingmagazine.com/2020/09/github-pages-hosting-jekyll/</link>
-            <description>Aprende a usar GitHub Pages para alojar tu sitio web estático con Jekyll.</description>
+            <description><![CDATA[
+                <img src="https://smtpprueba.github.io/pagina-web/the_cactus_gamer_by_killapro068-daxjqyf.png" alt="GitHub Pages"/>
+                Aprende a usar GitHub Pages para alojar tu sitio web estático con Jekyll.
+            ]]>            </description>
             <enclosure url="https://smtpprueba.github.io/pagina-web/the_cactus_gamer_by_killapro068-daxjqyf.png" type="image/png" length="153600" />
 
         </item>
