@@ -10,12 +10,9 @@
             <link>https://smtpprueba.github.io/pagina-web/</link>
         </image>
         <item>
-            <title>Cómo empezar con GitHub Pages</title>
-            <link>https://www.smashingmagazine.com/2020/09/github-pages-hosting-jekyll/</link>
-            <description><![CDATA[Tecnico superior  en Desarrollo de Aplicaciones Multiplataforma.
-            Este profesional será capaz de:
-            Desarrollar, impoantar, documentar y mantener aplicaciones informaticas multiplataforma, utilizando tecnologias y entornos de desarrollo especficos.
-            ]]>            </description>
+            <title>Noticias de actualidad</title>
+            <link>https://www.elpais.com/</link>
+            <description>Noticias sobre el país</description>
             <category>Educacion/informatica</category>
 
         </item>
