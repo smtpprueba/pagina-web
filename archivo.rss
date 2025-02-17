@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
         <title>Mi RSS</title>
         <link>https://smtpprueba.github.io/pagina-web/</link>
         <description>Ultimas publicaciones de mi blog</description>
         <image>
-            <url>https://smtpprueba.github.io/pagina-web/the_cactus_gamer_by_killapro068-daxjqyf.png</url>
+            <url>https://smtpprueba.github.io/pagina-web/imagenes/the_cactus_gamer_by_killapro068-daxjqyf.png</url>
             <title>mi feed RSS</title>
             <link>https://smtpprueba.github.io/pagina-web/</link>
         </image>
@@ -12,10 +13,10 @@
             <title>Cómo empezar con GitHub Pages</title>
             <link>https://www.smashingmagazine.com/2020/09/github-pages-hosting-jekyll/</link>
             <description><![CDATA[
-                <img src="https://smtpprueba.github.io/pagina-web/the_cactus_gamer_by_killapro068-daxjqyf.png" alt="GitHub Pages"/>
+                <img src="https://smtpprueba.github.io/pagina-web/imagenes/the_cactus_gamer_by_killapro068-daxjqyf.png" alt="GitHub Pages"/>
                 Aprende a usar GitHub Pages para alojar tu sitio web estático con Jekyll.
             ]]>            </description>
-            <enclosure url="https://smtpprueba.github.io/pagina-web/the_cactus_gamer_by_killapro068-daxjqyf.png" type="image/png" length="153600" />
+            <enclosure url="https://smtpprueba.github.io/pagina-web/imagenes/the_cactus_gamer_by_killapro068-daxjqyf.png" type="image/png" length="153600" />
 
         </item>
     </channel>
